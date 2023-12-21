@@ -10,7 +10,7 @@
   <a href="https://github.com/sponsors/vardhan-venkata">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vardhan-venkata/">
+  <a href="https://www.linkedin.com/in/vardhan-venkat/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
@@ -22,7 +22,7 @@
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%2012th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
@@ -36,22 +36,17 @@
 </details>-->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
+  📫 How to reach me: <a href='mailto:vardhanmerapureddy@gmail.com'>vardhanmerapureddy@gmail.com</a>
 </p>
-
-<p align='center'>
-  <a href='https://www.chess.com/member/alexandresanlim'>♟Chess
-<img align='center' src='https://img.shields.io/badge/dynamic/json?label=rating&query=%24.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Falexandresanlim%2Fstats'/></a>
-  </p>
 
 <details>
   <summary>📃 Resume</summary>
 
 ## Education
 
-- 📖 **Web Development**\
-  📆 2013 - 2016\
-  📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+- 📖 **Computer Science and Engineering**\
+  📆 2017 - 2021\
+  📍 **Sri Vasavi Engineering College** - Jawaharlal Nehru Technological University, Kakinada
 
 ## Experience
 
@@ -141,9 +136,8 @@
 
 </details>
 
-<details>
+<!-- <details>
   <summary>📦 Packages </summary>
-
 
 | Name                                                                                                      | A short summary                                 | Install                                                                                                                                        | Downloads                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -152,15 +146,14 @@
 | [Slack Exception Send](https://github.com/alexandresanlim/DotNet.Slack.ExceptionSend)                     | Send exceptions from applications to Slack.     | [![Nuget](https://img.shields.io/nuget/v/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send)                           | [![Nuget](https://img.shields.io/nuget/dt/Slack.Exception.Send)](https://www.nuget.org/packages/Slack.Exception.Send)                           |
 | [BrazilHolidays.Net](https://github.com/alexandresanlim/BrazilHolidays.Net)                               | Work with Brazil holidays on applications.      | [![Nuget](https://img.shields.io/nuget/v/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net)                               | [![Nuget](https://img.shields.io/nuget/dt/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net)                               |
 
-</details>
+</details> -->
 
-<details>
+<!-- <details>
   <summary>📱 Mobile</summary>
-
 
 | Name                                                                                        | A short summary                     | Stars                                                                                                | Framework                                                                            |
 | ------------------------------------------------------------------------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | [flutter-todo-list-chat-gpt](https://github.com/alexandresanlim/flutter-todo-list-chat-gpt) | ToDo list generator using Chat GPT. | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/flutter-todo-list-chat-gpt) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
 | [xamarin-sample-gallery](https://github.com/alexandresanlim/xamarin-sample-gallery)         | A list of small apps on Xamarin.    | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/xamarin-sample-gallery)     | ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white) |
 
-</details>
+</details> -->
